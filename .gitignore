@@ -144,3 +144,11 @@ data/TestProject/TSNE/*
 data/TestProject
 
 .DS_Store
+
+*.mat
+*.png
+*.pickle
+*.pkl
+*.npy
+*.model
+*.gif
